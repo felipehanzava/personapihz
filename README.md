@@ -8,6 +8,12 @@ Foram desenvolvidos e abordados os seguintes tópicos:
 * Relação de cada uma das operações acima com o padrão arquitetural REST, e a explicação de cada um dos conceitos REST envolvidos durante o desenvolvimento do projeto.
 * Desenvolvimento de testes unitários para validação das funcionalidades
 * Implantação do sistema na nuvem através do Heroku
+
+
+
+
+
+
 O endereço para visualizar a execução do projeto:
 
 ```
