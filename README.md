@@ -6,14 +6,21 @@ Aprenda a construir do zero uma API REST com Spring Boot para cadastro e gerenci
 
 Neste desafio, você irá aprender ao mesmo tempo que desenvolve algo prático para o seu portfólio! Sendo assim, você usará as seguintes ferramentas:
 
-Estilo arquitetural REST;
-Spring Boot Framework;
-Spring Data;
-MapStruct;
-Spring Test;
-Postman;
-Sprint Test;
-Deploy no heroku.
+*Estilo arquitetural REST;
+
+*Spring Boot Framework;
+
+*Spring Data;
+
+*MapStruct;
+
+*Spring Test;
+
+*Postman;
+
+*Sprint Test;
+
+*Deploy no heroku.
 
 
 
